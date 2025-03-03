@@ -1239,6 +1239,8 @@ DOMAIN-SUFFIX,hsfacebook.com
 DOMAIN-SUFFIX,httpfacebook.com
 DOMAIN-SUFFIX,httpsfacebook.com
 DOMAIN-SUFFIX,httpwwwfacebook.com
+
+# NAME:instagram
 DOMAIN-SUFFIX,i.org
 DOMAIN-SUFFIX,ig.me
 DOMAIN-SUFFIX,igcdn.com
