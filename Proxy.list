@@ -145,6 +145,9 @@ DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,protonstatus.com
 
 # NAME: google
+doamin:googleapis.cn
+doamin:googleapis.com
+doamin:xn--ngstr-lra8j.com
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
