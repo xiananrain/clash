@@ -16,6 +16,37 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
+# NAME: Snap
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co
+
+# NAME: PikPak
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
+
+# NAME: Tumblr
+DOMAIN-SUFFIX,tmblr.co
+DOMAIN-SUFFIX,tumblr.co
+DOMAIN-SUFFIX,tumblr.com
+
+# NAME: VK
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vk.cc
+DOMAIN-SUFFIX,vk.com
+
 # NAME: Twitch
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
