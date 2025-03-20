@@ -16,12 +16,6 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-# NAME: PotatoChat
-IP-CIDR,13.251.24.0/24,no-resolve
-IP-CIDR,13.251.41.0/24,no-resolve
-IP-CIDR,17.252.156.0/23,no-resolve
-DOMAIN-SUFFIX,pt.im
-
 # NAME: Snap
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,snap-dev.net
