@@ -2393,6 +2393,7 @@ PROCESS-NAME,com.google.android.play.games
 PROCESS-NAME,BackupandSync
 
 DOMAIN-SUFFIX,claw.cloud
+DOMAIN-SUFFIX,binpay.cc
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
