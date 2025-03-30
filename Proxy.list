@@ -2,7 +2,6 @@
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -187,6 +186,7 @@ DOMAIN-SUFFIX,protonstatus.com
 # IP-CIDR6: 1
 # PROCESS-NAME: 6
 # TOTAL: 707
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
