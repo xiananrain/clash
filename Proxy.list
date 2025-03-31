@@ -16,20 +16,6 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-# NAME: PikPak
-# AUTHOR: tugepaopao
-# REPO: https://github.com/tugepaopao/Image-Storage
-# UPDATED: 2024-07-03 16:17:40
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 6
-# TOTAL: 7
-DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
-DOMAIN-SUFFIX,hub5pn.wap.sandai.net
-DOMAIN-SUFFIX,hub5pnc.sandai.net
-DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-DOMAIN-SUFFIX,hubciddata.sandai.net
-DOMAIN-KEYWORD,mypikpak
 
 # NAME: Snap
 DOMAIN-SUFFIX,sc-cdn.net
@@ -201,7 +187,6 @@ DOMAIN-SUFFIX,protonstatus.com
 # IP-CIDR6: 1
 # PROCESS-NAME: 6
 # TOTAL: 707
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
