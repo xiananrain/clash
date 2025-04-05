@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,cypherd
 DOMAIN-KEYWORD,kraken
 
 #NAME BYBIT
+DOMAIN,announcements.bybitglobal.com
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 DOMAIN-SUFFIX,bybit.com
