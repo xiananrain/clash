@@ -1,2 +1,5 @@
 # Apple
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,ppq.apple.com
