@@ -19,7 +19,10 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,radiocast.co
 DOMAIN-SUFFIX,defillama.com
-DOMAIN-SUFFIX,signal.org
+
+# Signal
+- DOMAIN-SUFFIX,signal.org
+- DOMAIN-SUFFIX,whispersystems.org
 
 # NAME: Docker
 # AUTHOR: blackmatrix7
