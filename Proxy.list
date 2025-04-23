@@ -21,8 +21,8 @@ DOMAIN-SUFFIX,radiocast.co
 DOMAIN-SUFFIX,defillama.com
 
 # Signal
-- DOMAIN-SUFFIX,signal.org
-- DOMAIN-SUFFIX,whispersystems.org
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,whispersystems.org
 
 # NAME: Docker
 # AUTHOR: blackmatrix7
