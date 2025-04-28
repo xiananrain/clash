@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,vulpes.one
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,anthropic.com
 
 # IP段匹配
