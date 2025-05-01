@@ -21,6 +21,9 @@ DOMAIN-SUFFIX,radiocast.co
 DOMAIN-SUFFIX,defillama.com
 DOMAIN-SUFFIX,greasyfork.org
 
+#simplex
+DOMAIN-SUFFIX,simplex.im
+
 # Signal
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,whispersystems.org
