@@ -3,5 +3,5 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN,ppq.apple.com
-DOMAIN-SUFFIX,,xp.apple.com
+DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
