@@ -5,6 +5,12 @@ DOMAIN-SUFFIX,xvideo.cc
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.es
 
+#cursor
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+
 # NAME: GitHub
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
