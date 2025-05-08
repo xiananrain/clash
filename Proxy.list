@@ -16,11 +16,14 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,radiocast.co
 DOMAIN-SUFFIX,defillama.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,z-lib.id
+
+#H
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,missav.ai
 
 #simplex
 DOMAIN-SUFFIX,simplex.im
