@@ -5,7 +5,13 @@ DOMAIN-SUFFIX,xvideo.cc
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.es
 
-#icloud
+# Apple
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,ppq.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
