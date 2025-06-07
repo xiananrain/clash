@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,xvideo.cc
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.es
 
+#通信行业
+DOMAIN-SUFFIX,t-mobile.idemia.io
+
 #cursor
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
