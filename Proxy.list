@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
-DOMAIN-SUFFIX,fosstodon.org
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,nmnm.fun
 DOMAIN-SUFFIX,safepal.com
@@ -44,6 +43,10 @@ DOMAIN-SUFFIX,xvideos.es
 DOMAIN-SUFFIX,ins340.com
 DOMAIN-SUFFIX,oneprovide.net
 DOMAIN-SUFFIX,wap.ac
+
+#NAME:<astodon
+DOMAIN-SUFFIX,joinmastodon.org
+DOMAIN-SUFFIX,fosstodon.org
 
 # NAME:discord
 DOMAIN-SUFFIX,airhorn.solutions
