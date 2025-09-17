@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,oneprovide.net
 DOMAIN-SUFFIX,wap.ac
 
 #NAME:Mastodon
+DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,fosstodon.org
 
