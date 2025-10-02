@@ -19,7 +19,6 @@ DOMAIN,copilot.microsoft.com
 # TOTAL: 36
 
 # 单独域名匹配
-DOMAIN,mtalk.google.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,gemini.google.com
@@ -79,4 +78,5 @@ IP-CIDR,64.23.132.171/32,no-resolve
 
 # ASN匹配
 IP-ASN,20473,no-resolve
+
 
