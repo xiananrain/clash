@@ -89,5 +89,11 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,perplexity.ai
 
+# 域名关键字匹配
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
 
 
