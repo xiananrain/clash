@@ -80,3 +80,14 @@ IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,20473,no-resolve
 
 
+
+
+
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN,mtalk.google.com
+DOMAIN-SUFFIX,perplexity.ai
+
+
+
