@@ -798,12 +798,12 @@ DOMAIN-SUFFIX,google.vg
 DOMAIN-SUFFIX,google.vu
 DOMAIN-SUFFIX,google.ws
 DOMAIN-SUFFIX,googleacquisitionmigration.com
-DOMAIN-SUFFIX,googleadapis.com
+#DOMAIN-SUFFIX,googleadapis.com
 DOMAIN-SUFFIX,googleadservices-cn.com
 DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleapis-cn.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
+#DOMAIN-SUFFIX,googleapis-cn.com
+#DOMAIN-SUFFIX,googleapis.cn
+#DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapps-cn.com
 DOMAIN-SUFFIX,googleapps.com
 DOMAIN-SUFFIX,googlearth.com
