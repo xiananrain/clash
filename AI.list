@@ -44,7 +44,6 @@ DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
@@ -113,6 +112,7 @@ DOMAIN-SUFFIX,metademolab.com
 
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
 
 
 
