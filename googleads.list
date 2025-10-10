@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googlevideo.com
+#DOMAIN-SUFFIX,googlevideo.com
 #DOMAIN-SUFFIX,app-analytics-services.com
 #DOMAIN-SUFFIX,google-analytics-cn.com
 #DOMAIN-SUFFIX,googl-analytics.com
