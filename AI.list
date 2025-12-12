@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,Claude
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,cloud.microsoft
 
 # NAME: Claude
 # AUTHOR: blackmatrix7
@@ -126,6 +127,7 @@ DOMAIN-SUFFIX,metademolab.com
 
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
 
 
 
