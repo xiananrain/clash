@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,microsoft.com
 
 # NAME: Claude
 # AUTHOR: blackmatrix7
@@ -124,6 +125,7 @@ DOMAIN-SUFFIX,metademolab.com
 
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
 
 
 
