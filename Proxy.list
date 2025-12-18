@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,colocrossing.com
 DOMAIN-SUFFIX,dnshe.com
 DOMAIN-SUFFIX,toronto.edu
 DOMAIN-SUFFIX,takehost.biz
