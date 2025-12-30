@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,static.microsoft
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,office.com
@@ -128,6 +129,7 @@ DOMAIN-SUFFIX,metademolab.com
 
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
 
 
 
