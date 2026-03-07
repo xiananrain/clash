@@ -1,64 +1,23 @@
 
 config dns_servers
+	option enabled '1'
+	option group 'fallback'
 	option type 'https'
 	option ip 'doh.pub/dns-query'
-	option group 'nameserver'
+	option interface 'Disable'
+	option direct_nameserver '0'
+	option node_resolve '0'
+	option http3 '0'
+	option skip_cert_verify '0'
+	option ecs_override '0'
+	option disable_ipv4 '0'
 	option disable_ipv6 '0'
+	option specific_group 'Disable'
+
+config dns_servers
 	option enabled '1'
-
-config dns_servers
-	option type 'https'
-	option ip 'dns.alidns.com/dns-query'
-	option group 'nameserver'
-	option disable_ipv6 '0'
-	option enabled '1'
-
-config dns_servers
-	option group 'nameserver'
-	option ip '8.8.4.4'
-	option type 'udp'
-	option disable_ipv6 '0'
-	option enabled '0'
-
-config dns_servers
-	option enabled '0'
-	option group 'nameserver'
-	option ip '1.1.1.1'
-	option type 'udp'
-	option disable_ipv6 '0'
-
-config dns_servers
-	option group 'nameserver'
-	option type 'udp'
-	option ip '211.139.29.150'
-	option enabled '0'
-	option disable_ipv6 '0'
-
-config dns_servers
-	option group 'nameserver'
-	option type 'udp'
-	option ip '211.139.29.170'
-	option enabled '0'
-	option disable_ipv6 '0'
-
-config dns_servers
-	option group 'nameserver'
-	option type 'udp'
-	option ip '222.172.200.68'
-	option enabled '0'
-	option disable_ipv6 '0'
-
-config dns_servers
-	option group 'nameserver'
-	option type 'udp'
-	option ip '61.166.150.123'
-	option enabled '0'
-	option disable_ipv6 '0'
-
-config dns_servers
-	option enabled '0'
 	option group 'fallback'
-	option ip '8.8.8.8'
+	option ip '8.8.4.4'
 	option type 'udp'
 	option interface 'Disable'
 	option direct_nameserver '0'
@@ -67,9 +26,31 @@ config dns_servers
 	option disable_ipv6 '0'
 
 config dns_servers
+	option enabled '1'
+	option group 'fallback'
+	option type 'https'
+	option ip 'dns.alidns.com/dns-query'
+	option interface 'Disable'
+	option direct_nameserver '0'
+	option node_resolve '0'
+	option http3 '0'
+	option skip_cert_verify '0'
+	option ecs_override '0'
+	option disable_ipv4 '0'
+	option disable_ipv6 '0'
+	option specific_group 'Disable'
+
+config dns_servers
 	option enabled '0'
 	option group 'fallback'
 	option ip '9.9.9.9'
+	option type 'udp'
+	option disable_ipv6 '0'
+
+config dns_servers
+	option enabled '0'
+	option group 'fallback'
+	option ip '2620:fe::9'
 	option type 'udp'
 	option disable_ipv6 '0'
 
@@ -84,13 +65,6 @@ config dns_servers
 	option enabled '0'
 	option group 'fallback'
 	option ip '2620:fe::fe'
-	option type 'udp'
-	option disable_ipv6 '0'
-
-config dns_servers
-	option enabled '0'
-	option group 'fallback'
-	option ip '2620:fe::9'
 	option type 'udp'
 	option disable_ipv6 '0'
 
@@ -132,14 +106,14 @@ config dns_servers
 config dns_servers
 	option enabled '0'
 	option group 'fallback'
-	option ip 'jp.tiar.app'
+	option ip 'dot.tiar.app'
 	option type 'tls'
 	option disable_ipv6 '0'
 
 config dns_servers
 	option enabled '0'
 	option group 'fallback'
-	option ip 'dot.tiar.app'
+	option ip 'jp.tiar.app'
 	option type 'tls'
 	option disable_ipv6 '0'
 
@@ -167,14 +141,14 @@ config dns_servers
 config dns_servers
 	option enabled '0'
 	option group 'fallback'
-	option ip '1.1.1.1/dns-query'
+	option ip 'public.dns.iij.jp/dns-query'
 	option type 'https'
 	option disable_ipv6 '0'
 
 config dns_servers
 	option enabled '0'
 	option group 'fallback'
-	option ip 'public.dns.iij.jp/dns-query'
+	option ip '1.1.1.1/dns-query'
 	option type 'https'
 	option disable_ipv6 '0'
 
@@ -239,6 +213,62 @@ config dns_servers
 	option group 'fallback'
 	option ip '172.18.2.2'
 	option type 'tls'
+	option disable_ipv6 '0'
+
+config dns_servers
+	option type 'https'
+	option ip 'doh.pub/dns-query'
+	option group 'nameserver'
+	option disable_ipv6 '0'
+	option enabled '0'
+
+config dns_servers
+	option type 'https'
+	option ip 'dns.alidns.com/dns-query'
+	option group 'nameserver'
+	option disable_ipv6 '0'
+	option enabled '0'
+
+config dns_servers
+	option group 'nameserver'
+	option ip '8.8.4.4'
+	option type 'udp'
+	option disable_ipv6 '0'
+	option enabled '0'
+
+config dns_servers
+	option enabled '0'
+	option group 'nameserver'
+	option ip '1.1.1.1'
+	option type 'udp'
+	option disable_ipv6 '0'
+
+config dns_servers
+	option group 'nameserver'
+	option type 'udp'
+	option ip '211.139.29.150'
+	option enabled '0'
+	option disable_ipv6 '0'
+
+config dns_servers
+	option group 'nameserver'
+	option type 'udp'
+	option ip '211.139.29.170'
+	option enabled '0'
+	option disable_ipv6 '0'
+
+config dns_servers
+	option group 'nameserver'
+	option type 'udp'
+	option ip '222.172.200.68'
+	option enabled '0'
+	option disable_ipv6 '0'
+
+config dns_servers
+	option group 'nameserver'
+	option type 'udp'
+	option ip '61.166.150.123'
+	option enabled '0'
 	option disable_ipv6 '0'
 
 config config_subscribe
@@ -389,6 +419,6 @@ config openclash 'config'
 	option ipv6_dns '1'
 	option fakeip_range6 '0'
 	option china_ip6_route '1'
-	option urltest_interval_mod '299'
-	option enable '0'
+	option urltest_interval_mod '302'
+	option enable '1'
 
