@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,cloud.microsoft
 DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,windows.com
 
 # NAME: Claude
 # AUTHOR: blackmatrix7
