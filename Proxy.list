@@ -1486,6 +1486,7 @@ DOMAIN-SUFFIX,dockerhub.com
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
 DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threads.com
 
 # NAME: Snap
 DOMAIN-SUFFIX,sc-cdn.net
