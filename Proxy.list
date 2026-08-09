@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 
 
+DOMAIN-SUFFIX,iturrit.com
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,cider.sh
 DOMAIN-SUFFIX,outplayed.tv
@@ -2267,7 +2268,6 @@ DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 
-DOMAIN-KEYWORD,turrit
 DOMAIN-KEYWORD,whatapp
 DOMAIN-KEYWORD,rootdata
 
